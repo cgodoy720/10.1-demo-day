@@ -1,15 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+@font-face {
+  font-family: 'Galano Grotesque';
+  src: url('/assets/fonts/GalanoGrotesque.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Galano Grotesque SemiBold';
+  src: url('/assets/fonts/GalanoGrotesqueSemiBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 body {
   background-color: whitesmoke !important;
-  font-family: Roboto !important;
+  font-family: "Galano Grotesque SemiBold", sans-serif !important;
 }
 
 img {
   display: block;
   width: 95%;
-  margin: 15px auto;
+  margin: 7px auto;
 }
 
 h1 {
@@ -32,7 +47,7 @@ h3 {
 }
 
 .container {
-  max-width: 720px;
+  max-width: 2000px;
   margin: 0 auto;
 }
 
@@ -62,7 +77,9 @@ h3 {
   letter-spacing: 2.5px;
 }
 
-
+.bio {
+  font-family: "Galano Grotesque", sans-serif;
+}
 
 .icon:hover {
   transform: scale(.95);
@@ -127,7 +144,7 @@ li {
 }
 
 
-@media (min-width: 768px) {
+@media (min-width: 1028px) {
   .team {
     flex-direction: row;
   }
@@ -148,7 +165,12 @@ li {
   }
 
   .fellow-link {
-    width: 30px;
+    display: block;
+    /* width: 30px; */
+  }
+
+  .fellow:hover {
+    transform: scale(.95);
   }
 
   img {
@@ -172,6 +194,70 @@ li {
   .icon {
     margin-top: 30px;
     margin-bottom: 30px;
+  }
+  .fellow-links {
+    /* border: 2px solid gold; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .fellow-link {
+    margin: 0px;
+    padding: 0px;
+    /* width: 350px; */
+  }
+
+  .profile-pic {
+    max-width: 350px;
+  }
+  .ul {
+    justify-content: space-evenly;
+  }
+  .bio {
+    text-align: left;
+    width: 75%;
+    font-size: 1.2rem;
+  }
+  #fellow-name {
+    font-size: .9rem;
+  }
+
+  .text-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0px;
+  }
+  .profile-pic {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin: 15px auto 30px;
+    display: block;
+  }
+}
+
+@media (min-width: 1028px) {
+  .fellow-links {
+    /* flex-direction: row; */
+    /* justify-content: space-around; */
+    /* align-items: flex-start; */
+  }
+
+  .fellow-link {
+    /* flex: 0 1 calc(33.333% - 20px); */
+    margin: 0px;
+    max-width: 350px;
+    /* border: 2px solid red; */
+    width: fit-content;
+  }
+  #fellow-name {
+    /* font-size: 0.8rem; */
+    font-weight: 300;
+  }
+  .text-overlay {
+    height: 50px; /* Adjust the height to make the text overlay smaller */
   }
 
 }

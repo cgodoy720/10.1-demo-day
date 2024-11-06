@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import teams from '../fellows.json'
+import teams from '../10.5-fellows.json'
 import { useParams, Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -26,22 +26,21 @@ const FellowProfile = () => {
                     <h1 style={{ letterSpacing: "4px" }}>{fellowInfo.name.toUpperCase()}</h1>
                     <img className="profile-pic" src={`/${fellowInfo?.image}`} />
                     
-                    <p>{fellowInfo.bio}</p>
+                    <p className="bio">{fellowInfo.bio}</p>
 
                     <div className="ul">
                         <li className='icon'>
-                            
-                        <a href={fellowInfo.github} target="_blank">
-                            <FontAwesomeIcon icon={faGithub} 
-                            color={"black"}
-                            size={"4x"} />
+                            <a href={fellowInfo.github} target="_blank">
+                                <FontAwesomeIcon icon={faGithub} 
+                                color={"black"}
+                                size={"2x"} />
                             </a>
                         </li>
                         <li className="icon">
                             <a href={fellowInfo.linkedin} target="_blank">
                             <FontAwesomeIcon icon={faLinkedin} 
                             color={"black"}
-                            size={"4x"} />
+                            size={"2x"} />
                             </a>
                         </li>
                     </div>

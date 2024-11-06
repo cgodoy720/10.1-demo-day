@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import teams from '../fellows.json'
+import teams from '../10.5-fellows.json'
 import Button from 'react-bootstrap/Button';
 
 const Team = () => {
@@ -18,19 +18,21 @@ const Team = () => {
             { team && 
                 <h1>
                     <a href={team?.url} target="_blank" id="app-link">
-                        {team?.team}
+                        {team?.team.toUpperCase()}
                     </a>
                 </h1> 
             }
             <div className="fellow-links">
             {
                 team && team.members.map((fellow, i) => (
-                    <Link key={i} to={`/${name}/${fellow.name}`} className="fellow-link">
-                        <img src={fellow.image} />
-                        <div className="text-overlay">
-                            <p>{fellow.name.toUpperCase()}</p>
-                        </div>
-                    </Link>
+                    <div key={i} className="fellow">
+                        <Link to={`/${name}/${fellow.name}`} className="fellow-link">
+                            <img src={fellow.image} />
+                            <div className="text-overlay">
+                                <p id="fellow-name">{fellow.name.toUpperCase()}</p>
+                            </div>
+                        </Link>
+                    </div>
                 ))
             }
             </div>

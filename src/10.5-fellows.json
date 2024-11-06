@@ -1,0 +1,200 @@
+[
+    {
+        "team": "Intel Loom",
+        "url": "",
+        "logo": "assets/teams/intel_loom.jpg",
+        "members": [
+            {
+                "name": "Marco Quispe",
+                "github": "https://github.com/mquispe96",
+                "linkedin": "https://www.linkedin.com/in/marco-quispe",
+                "bio": "I'm a Peruvian American Computer Eng. and Tech. with a recent focus on Full Stack Web Development. I've always been fascinated by robotics, coding, and cars. I like to go on walks, hikes or drives, because it's in those moments where I find peace and I'm able to think freely and creatively. I have a 2 years old golden retriever, Luca, he's the most important being in my life. Late nights coding wouldn't be the same without him by my side, specially if I'm stuck on a problem and need to bounce ideas. Finally, I'm a big fan of super heroes movies or tv series, most from the MCU, Christian Bale's Batman trilogy, and most of The CW DCU series.",
+                "image": "assets/10.5/marco_quispe.jpeg"
+            },
+            {
+                "name": "Nicole Marin",
+                "github": "https://github.com/marinn6",
+                "linkedin": "https://www.linkedin.com/in/nicolemarin06/",
+                "bio": "Nicole who has a background in business. She enjoys traveling, trying new food, and learning about different cultures and languages. On warm days you can catch her riding her bike and reading a book at a park.",
+                "image": "assets/10.5/nicole_marin.jpeg"
+            },
+            {
+                "name": "Justin Overton",
+                "github": "https://github.com/overtonjust",
+                "linkedin": "https://www.linkedin.com/in/justin-overton/",
+                "bio": "With a background in the hospitality industry, Justin Overton is someone looking to move from culinary tto code. With his new passion in full stack development Justin is looking to break into green tech as a junior software developer to help the sustainable initiatives our planet needs.",
+                "image": "assets/10.5/justin_overton.jpeg"
+            },
+            {
+                "name": "Christopher Sanchez",
+                "github": "https://github.com/CSAN7690",
+                "linkedin": "https://www.linkedin.com/in/christopher-sanchez706/",
+                "bio": "Christopher has extensive experience in both veterinary and human healthcare. As an aspiring software engineer, he aims to leverage his medical expertise and combine it with his growing technical skills to develop innovative solutions, particularly in areas that intersect animal welfare, rehabilitation, and healthcare technology. With a focus on creating impactful tools and applications, Chris envisions a future where technology bridges the gap between healthcare professionals, patients, and rehabilitators, driving forward more efficient, compassionate care.",
+                "image": "assets/10.5/christopher_sanchez.jpg"
+            },
+            {
+                "name": "Erika Medina",
+                "github": "https://github.com/Erimed33",
+                "linkedin": "https://www.linkedin.com/in/erika-jud-medina33/",
+                "bio": "I'm a full-stack developer in training, diving into the world of software development as technology continues to shape our future. With a background that spans everything from restaurants, animal hospitals, and a driving school to event planning, bartending, and working in schools, I bring a wide range of experiences into this new chapter of my career.\nCurrently, I'm gaining skills through Pursuit, learning JavaScript, CSS, and HTML. Outside of tech, I stay active by hiking, yoga and dancing, and I love exploring new adventures  as well as quieter moments at home enjoying anime, board games, etc. ",
+                "image": "assets/10.5/erika_medina.jpeg"
+            }
+        ]
+    },
+    {
+        "team": "Patternal",
+        "url": "",
+        "logo": "assets/teams/patternal.jpg",
+        "members": [
+            {
+                "name": "Camilo Paez",
+                "github": "https://github.com/MiloCo86",
+                "linkedin": "https://www.linkedin.com/in/camilo-andres-paez-pinzon",
+                "bio": "I am a passionate software developer from Colombia with a strong focus on problem-solving. I thrive on challenges and enjoy creating innovative solutions.",
+                "image": "assets/10.5/camilo_paez.jpeg"
+            },
+            {
+                "name": "Brendan O'Brien",
+                "github": "https://github.com/bobrien-pursuit/",
+                "linkedin": "https://www.linkedin.com/in/brendanbobrien/",
+                "bio": "Brendan is a lifelong; student, teacher, mentor and friend; who has a passion for serving others with education and training. He holds a Computer Science degree and loves to solve problems using software engineering paired with natural analytical skills. He's naturally curious and holds a lot of experience ranging from; Education and Engineering to Business. He believes nothing that you learn in life is wasted and plans on using Software Engineering to enhance those spaces. In addition to those things he is well travelled, enjoys having conversation, and can speak to a wide variety of topics (just not sports!).",
+                "image": "assets/10.5/brendan_obrien.jpeg"
+           },
+           {
+                "name": "Moinul Khan",
+                "github": "https://github.com/MoinulAx",
+                "linkedin": "https://www.linkedin.com/in/moinul-khan-647535238/",
+                "bio": "I'm a Full Stack Developer, photographer, and musician, with a focus on creative and technical work. I run a video editing and photography contracting company, collaborating to produce impactful visuals and projects. Always driven by curiosity, I enjoy connecting with inspiring people to create meaningful work.",
+                "image": "assets/10.5/moinul_khan.jpeg"
+            },
+            {
+                "name": "Vianel De La Cruz",
+                "github": "https://github.com/ViaticusRex",
+                "linkedin": "https://www.linkedin.com/in/vianeldelacruz/",
+                "bio": " Software engineer blending a decade of digital media expertise with visual storytelling to build impactful web applications. Passionate about creating thoughtful user experiences that drive positive social change.",
+                "image": "assets/10.5/vianel_delacruz.jpeg"
+            }
+        ]
+    },
+    {
+        "team": "M Cubed",
+        "url": "",
+        "logo": "assets/teams/m_cubed.jpg",
+        "members": [
+            {
+                "name": "Rizel Enad",
+                "github": "https://github.com/renad-lab",
+                "linkedin": "https://www.linkedin.com/in/rizelenad/",
+                "bio": "For over two decades, Rizel helped build a small business. Now, she’s focused on creating solutions for consumers and businesses. In her free time, she’s working on her Villain Chess app.",
+                "image": "assets/10.5/rizel_enad.png"
+            },
+            {
+                "name": "Kubra Bodur",
+                "github": "https://github.com/kbodur",
+                "linkedin": "https://www.linkedin.com/in/kubra-bodur-6524b5297",
+                "bio": "I’m Kübra, and I'm from Turkey. I taught physics for nine years before moving here. With my interest in technology and my husband’s support, I started my journey with Pursuit, which changed both my career and my life",
+                "image": "assets/10.5/kubra_bodur.jpeg"
+            },
+            {
+                "name": "Aaron Constant",
+                "github": "https://github.com/AaronConstant",
+                "linkedin": "https://www.linkedin.com/in/aaronconstant/",
+                "bio": "Aaron Constant is currently a Residential Counselor, providing support to individuals with mental health conditions. In addition to his counseling work, he is an enthusiastic and self-taught cosmetic chemist, enjoying the creation of skincare and haircare products. Aaron is also pursuing a career in software engineering with a strong passion for technology and video game creation. Aaron is hoping to develop a game for others enjoyment such as the games that he has enjoyed since his youth. With this passion he plans to utilize his skill set to reach out to other communities, travel and experience diverse cultures firsthand in hopes to widen his reach of understanding of communities and in all aspects through the intricate and meticulous world of tech.",
+                "image": "assets/10.5/aaron_constant.jpeg"
+            },
+            {
+                "name": "Manoel Alves Teixeira",
+                "github": "https://github.com/manoelteixeira",
+                "linkedin": "https://www.linkedin.com/in/manoel-alves-teixeira/",
+                "bio": "Thinkg about it ...",
+                "image": "assets/10.5/manoel_teixeira.jpeg"
+            },
+            {
+                "name": "Katlyn Winegardner",
+                "github": "https://github.com/KatWine",
+                "linkedin": "https://www.linkedin.com/in/katlyn-winegardner/",
+                "bio": "Hi, I’m Katlyn Winegardner, a full-stack developer passionate about using technology to advocate for my community and create real change",
+                "image": "assets/10.5/katlyn_winegardner.jpg"
+            }
+        ]
+    },
+    {
+        "team": "Mentor Volunteer Platform",
+        "url": " ",
+        "logo": "assets/teams/mvp.jpg",
+        "members": [
+            {
+                "name": "Ayotunde Akinkunmi",
+                "github": "https://github.com/Ayotundeeee",
+                "linkedin": "linkedin.com/in/ayotunde-akinkunmi-3380a6303",
+                "bio": "A full stack software developer specializing in the PERN stack. I am always seeking opportunities to deepen my knowledge and acquire new skills. I am eager to establish an impactful career as a software engineer, where I can contribute my skills to innovative projects and continue to grow professionally",
+                "image": "assets/10.5/tunde.jpeg"
+            },
+            {
+                "name": "Jean Moncayo",
+                "github": "https://github.com/jmoncayo-pursuit",
+                "linkedin": "https://www.linkedin.com/in/jeanmoncayo247/",
+                "bio": "Jean has always had a passion for communicating with computers, even before he knew how to speak to humans. Though he didn't start learning how until later in life, it's been a driving force ever since. Jean could have really used a mentor to guide him on his journey into tech, which is why he and his team are now developing a mentorship platform. Learning new technologies excites Jean, and he is eager to help shape the future.",
+                "image": "assets/10.5/jean_moncayo.jpeg"
+            },
+            {
+                "name": "Nasheed Jeremiah",
+                "github": "https://github.com/eivor9",
+                "linkedin": "https://www.linkedin.com/in/nasheedjeremiah/",
+                "bio": "Nasheed is a passionate storyteller with a deep curiosity for how things work, blending creativity with a love for technology. With a focus on web app development and a commitment to creating meaningful user experiences, Nasheed is dedicated to building tools that connect people, whether through book reviews, mentorship, or innovative tech solutions.",
+                "image": "assets/10.5/nasheed_jeremiah.jpeg"
+            },
+            {
+                "name": "Jazon Younge",
+                "github": "https://github.com/JayZ44",
+                "linkedin": "https://www.linkedin.com/in/jazon-younge/",
+                "bio": "Full-stack web developer with a focus on React, bringing years of experience in art, design, and illustration. Driven by a passion for creativity and innovation, and eager to embrace new opportunities that lead to a bright future.",
+                "image": "assets/10.5/jazon_younge.jpg"
+            }
+        ]
+    },
+    {
+        "team": "YUM Stepper",
+        "url": "",
+        "logo": "assets/teams/yum_stepper.jpg",
+        "members": [
+            {
+                "name": "Nadia Matos",
+                "github": "https://github.com/Nadi-BrooklynCoder",
+                "linkedin": "https://www.linkedin.com/in/nad-mat/",
+                "bio": "I'm a busy single mom who always had an interest in coding, but it wasn't until 2-3 years ago that I decided to take it seriously. I've worked many jobs, but nothing has given me the passion and drive that I feel with software engineering. Besides my love for coding, I enjoy being a soccer mom, cooking up just about anything, walking for miles, watching good movies, and traveling whenever I can.",
+                "image": "assets/10.5/nadia_matos.jpeg"
+            },
+            {
+                "name": "Larry Lamouth",
+                "github": "https://github.com/llamouth",
+                "linkedin": "https://www.linkedin.com/in/larryalamouth/",
+                "bio": "Larry Lamouth is a software engineer with a strong passion for learning and problem-solving. With a diverse background and experience across various fields, Larry is now focused on building a career in technology. Currently enrolled in a software engineering bootcamp, he is mastering full-stack development with technologies like JavaScript, React, Node.js, and PostgreSQL. Driven by curiosity and a love for continuous improvement, Larry enjoys tackling complex challenges and expanding his knowledge of the latest tools and frameworks. His dedication to growth is evident in both his work and personal projects, as he consistently seeks out new opportunities to learn and enhance his skill set.",
+                "image": "assets/10.5/larry_lamouth.jpeg"
+            },
+            {
+                "name": "Khyla Reddick",
+                "github": "https://github.com/KhylaRedd",
+                "linkedin": "https://www.linkedin.com/in/khyla-redd-5887a6321/",
+                "bio": "Khyla Redd is a dynamic developer and creative technologist with a passion for merging artistry with innovation. With a background in musical theater and biotechnology, Khyla has honed a diverse skill set, from acting and sound production to assistive technology, augmented reality, and UX/UI design. She is advancing her expertise in software engineering and aims to create impactful tech solutions that empower creative communities. When she’s not coding, Khyla channels her creative energy into artistic showcases and entrepreneurial projects. With each project, she strives to bridge the gap between technology and human experience, making the world more accessible and engaging.",
+                "image": "assets/10.5/khyla_reddick.jpg"
+            },
+            {
+                "name": "Diamond Brown",
+                "github": "https://github.com/dbrown499",
+                "linkedin": "https://www.linkedin.com/in/diamond-brown-8305642a1/",
+                "bio": "Diamond Brown, a proud brown-skinned city girl, known for her versatility and dynamic approach to life. Often referred to as a 'jack of all trades,' and constantly mastering new skills and embracing fresh challenges. With an infectious energy, I am ready to conquer the world—one digital innovation at a time.",
+                "image": "assets/10.5/diamond_brown.jpeg"
+            },
+            {
+                "name": "Trystan Muniz",
+                "gitHub":"https://github.com/Trystan-Muniz",
+                "linkedin":" https://www.linkedin.com/in/trystan-muniz-226981315/",
+                "bio": "Trystan is a aspiring software engineer who has always been interesting in video games and art, his interest has brought him to coding in hopes of him making his own video game",
+                 "image": "assets/10.5/trystan_muniz.jpg" 
+            }
+                
+                
+        ]
+    }
+]
