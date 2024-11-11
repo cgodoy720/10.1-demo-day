@@ -1,7 +1,7 @@
 [
     {
         "team": "Locally",
-        "url": "",
+        "url": "http://mylocally.io/",
         "logo": "assets/teams/locally.jpg",
         "members": [
           {
@@ -36,7 +36,7 @@
     },
     {
         "team": "Pat.io",
-        "url": "",
+        "url": "https://pat-io.netlify.app/",
         "logo": "assets/teams/pat.io.jpg",
         "members": [
             {
@@ -120,7 +120,7 @@
     },
     {
         "team": "iHelp",
-        "url": "",
+        "url": "https://ihelp-demo.netlify.app/",
         "logo": "assets/teams/ihelp.jpg",
         "members": [
             {
