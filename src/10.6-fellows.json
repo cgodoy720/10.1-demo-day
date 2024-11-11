@@ -9,28 +9,28 @@
             "github": "https://github.com/efierr",
             "linkedin": "https://www.linkedin.com/in/erickfierro0413/",
             "bio": "My name is Erick Fierro, a Mexican American with a solid background in construction and a growing passion for coding and technology. My curiosity about how technology can transform industries led me to pursue coding through Pursuit. I'm particularly interested in merging my construction experience with technological innovations to drive positive changes in the field. In my free time, I enjoy playing ping pong and video games,",
-            "image": ""
+            "image": "assets/10.6/erick_fierro.jpeg"
           },
           {
             "name": "Lynnette Jacobs",
             "github": "https://github.com/lynnjaco",
             "linkedin": "https://www.linkedin.com/in/lajacobs/",
             "bio": "I'm a full stack software developer from New Jersey, who previously built a career as a visual artist, offering photography, graphic design, and custom artwork to local clients. A year ago, I stepped into the world of coding through the Pursuit program, initially finding it unfamiliar but soon realizing that I could channel my creativity in new ways through software development. I now love creating engaging visual experiences on the frontend, while also enjoying the challenge of applying my logic and problem-solving skills on the backend.",
-            "image": ""
+            "image": "assets/10.6/lynette_jacobs.jpeg"
           },
           {
             "name": "Alexandra Perez",
             "github": "https://github.com/alexandra-perez",
             "linkedin": "https://www.linkedin.com/in/ap-alexandraperez/",
             "bio": "Hi, I'm Alexandra Perez and I'm a full stack developer. I've always enjoyed solving problems and I knew from a young age that I wanted to build websites. Today, I'm driven by a passion for building impactful products, diversifying the tech industry, and applying my skills to drive innovation.",
-            "image": ""
+            "image": "assets/10.6/alexandra_perez.jpeg"
           },
           {
             "name": "Gerardo Garcia Jr",
             "github": "https://github.com/gerardjr42",
             "linkedin": "https://www.linkedin.com/in/garciajrgerardo/",
             "bio": "Gerardo is a software engineer with a background in premed. He has experience in full-stack development at Pursuit, AI integration at HeadStarter AI, and data analytics and machine learning as an Uplimit Fellow. Known for his organizational and problem-solving skills, Gerardo thrives in collaborative environments and aims to create innovative solutions for societal betterment. Learn more at gerardogarciajr.com.",
-            "image": ""
+            "image": "assets/10.6/gerardo_garcia.jpeg"
           }
         ]
     },
@@ -44,35 +44,35 @@
                 "github": "https://github.com/AbrahamZambranoTablante",
                 "linkedin": "https://www.linkedin.com/in/abrahamzambranotablante/",
                 "bio": " Abraham was born and raised in Venezuela, where his passion for technology ignited at the age of 12 when he got his first computer. Even without internet access, he taught himself how to install and uninstall programs, played around with games, and learned HTML to style his MySpace page. He later pursued Software Engineering in college, where he gained a strong foundation in Java, SQL, and mathematics. However, Venezuela's economic collapse in 2016 forced him to leave his studies and search for better opportunities abroad. After traveling across several South American countries for four years, Abraham found his way to the United States. There, he educated himself in the tax industry and worked as a Tax Specialist for two years before rediscovering his passion for technology. Abraham then joined the Pursuit Program to study software engineering, and he is now a full-stack developer with expertise in JavaScript, CSS, HTML, SQL, AI Machine Learning, React, Express, and Tailwind. Driven by a lifelong dream, Abraham is ready to break into the sports statistics market, blending his passion for technology and sports into a fulfilling career.",
-                "image": ""
+                "image": "assets/10.6/abraham_tablante.jpeg"
             },
             {
                 "name": "Bryan Alcantara",
                 "github": "https://github.com/BryanA0418",
                 "linkedin": "https://www.linkedin.com/in/bryan-alcantara-643479281/",
                 "bio": "I was born in the Bronx, New York, a place full of culture and diversity, but where technology wasn't a central part of my family life. While no one around me was particularly into tech, I was always the curious one, fascinated by the inner workings of electronics. From a young age, I would open up gadgets and study the motherboard, observing how all the components connected. I didn't fully understand what I was looking at back then, but it sparked a curiosity that would shape my future. As I grew older, that curiosity evolved. I started rebuilding computers and gaming systems, pushing my limits and learning through hands-on experience. It wasn't just electronics, though—my love for building and problem-solving extended into other areas, like rebuilding motorcycle engines. The mechanical and digital worlds both fascinated me because they allowed me to create and understand things on a deeper level. Through these experiences, I developed a core belief that drives everything I do: to create something that is accessible to anyone, while also being intuitive and visually appealing. I believe that technology, no matter how complex, should feel simple to the end user, and the design should be just as engaging as the functionality. Today, as a full-stack developer, that same belief guides my work. Every project is an opportunity to build something meaningful that makes people's lives easier. Looking to the future, I aspire to own my own software programming company, where I can continue creating innovative solutions that blend functionality with beauty.",
-                "image": ""
+                "image": "assets/10.6/bryan_alcantara.jpeg"
             },
             {
                 "name": "Runquan Ray Zhou",
                 "github": "https://github.com/runquan-ray-zhou",
                 "linkedin": "https://www.linkedin.com/in/runquanrayzhou/",
                 "bio": "Ray is a full-stack developer passionate about building impactful web apps that solve real-world problems. He is constantly learning and incorporating AI and creating user-friendly experiences, always striving to make technology accessible and intuitive for users.  As a father of an energetic and bright 8-year-old, Ray's work is often fueled by a desire to make the world better for future generations.  Beyond his passion for tech, Ray is an eternal optimist with a bubbling personality. He has an insatiable curiosity for how things work, and you'll often find him surfing the web, tackling puzzles, or enjoying his latest obsession: expert-level killer sudoku. Ray also loves underdog stories, reading manga, and watching Far East Asian films, with 'Kids Return' by Takeshi Kitano holding a special place in his heart.  While Ray has a shy and sometimes anxious side that takes time to warm up to others, his motivation is always clear—he just wants to do the right thing. When he's not coding, Ray is out learning to skateboard, embracing new challenges with the same enthusiasm he brings to every aspect of his life. Whether at work or play, Ray is someone whose energy, optimism, and drive to constantly improve leave a lasting impact on those around him. Cheers all around!",
-                "image": ""
+                "image": "assets/10.6/raymond_zhou.jpeg"
             },
             {
                 "name": "Steven Rouse",
                 "github": "https://github.com/ROUSE-prog",
                 "linkedin": "https://www.linkedin.com/in/stevenrouse/",
                 "bio": "Steven Rouse is a dynamic full-stack developer and creative technologist with a strong background in game design, interactive applications, and immersive user experiences. With over four years of software engineering experience and a passion for blending visual aesthetics with functionality, he specializes in building engaging web platforms, iOS games, and AR applications. Steven has contributed to diverse projects, from developing 3D portfolios to AI-powered apps. He is deeply involved in the tech community, constantly refining his skills in Swift, React, and Next.js while exploring the intersections of art, technology, and user experience.",
-                "image": ""
+                "image": "assets/10.6/steven_rouse.jpeg"
             },
             {
                 "name": "Venkata Raji Reddy Eda",
                 "github": "https://github.com/evrajireddy",
                 "linkedin": "https://www.linkedin.com/in/venkata-raji-reddy-eda-a9768621/",
                 "bio": "I am Venkata Raji Reddy Eda, a down-to-earth individual with a loving family—my wife and two children. From a young age, I have always been passionate about society, eager to socialize, share knowledge, and assist those in need. I hold a degree in Agricultural Science and a Master's in International Business. Coming from a family with a strong background in agriculture, it has been a privilege to study agricultural science professionally and support farmers. Currently, I am pursuing a career in IT at a prestigious institution called `PURSUIT.` This program provides the essential training to sharpen my skills and further contribute to the community",
-                "image": ""
+                "image": "assets/10.6/venkata_raji.jpeg"
             }
         ]
     },
@@ -86,77 +86,77 @@
                 "github": "https://github.com/ayoublos",
                 "linkedin": "https://www.linkedin.com/in/ayyoub-belibel/",
                 "bio": "I’m Ayyoub, an immigrant from Algeria, I moved to the States around two years ago after I won the DV lottery. I started my journey here in fast food and now I am working as a delivery driver. These experiences along with my passion for anything related to problem solving from puzzles and chess have fueled my determination to become a software engineer. I’m really excited to embrace new opportunities take on new challenges and build web applications that solve real life problems",
-                "image": ""
+                "image": "assets/10.6/ayyoub_belibel.jpeg"
             },
             {
                 "name": "Nahida Niki Khanam",
                 "github": "https://github.com/incognito1025",
                 "linkedin": "https://www.linkedin.com/in/nahida-niki-khanam/",
                 "bio": "I’m Niki. After over a decade in nonprofits focused on social justice and supporting underserved communities, I witnessed firsthand how technology—especially AI—was transforming the landscape. When I realized my role could be automated, I chose to embrace the challenge and learn coding. I’ve always believed that when used thoughtfully, technology has the power to drive meaningful social change, and I’m passionate about leveraging it to make a lasting impact. With a problem-solving mindset and experience in fundraising, and philanthropy across various nonprofit missions, I bring a unique perspective to using technology for positive change.",
-                "image": ""
+                "image": "assets/10.6/nahida_niki_khanam.jpeg"
             },
             {
                 "name": "Jorge Godoy",
                 "github": "https://github.com/jorgelg87",
                 "linkedin": "https://www.linkedin.com/in/jorgelgodoy/",
                 "bio": "I’m Jorge! Originally from Argentina. Always felt a passion for coding and problem solving, ever since I came to the US I did a couple of things in my life, one of them was Uber that introduced me to Pursuit, couldn’t be more grateful. I love sports and I’m very excited about what the future holds, especially with new technologies like AI and machine learning. These innovations keep me engaged as a software engineer, inspiring continuous learning and growth.",
-                "image": ""
+                "image": "assets/10.6/jorge_godoy_rodriguez.jpeg"
             },
             {
                 "name": "Anthony Cannonier",
                 "github": "https://github.com/AntCannon",
                 "linkedin": "https://www.linkedin.com/in/AnthonyCannonier/",
                 "bio": "Greetings I’m Anthony, but folks call me AC. I’m a passionate Data Specialist and Software Engineer based in the Bronx, New York. With expertise in educational operations, data analytics and application development, using technology solving operational problems to make people’s lives easier invigorates me. Outside of work, I enjoy gaming, target sports and absolutely love stepping.",
-                "image": ""
+                "image": "assets/10.6/anthony_cannonier.jpeg"
             },
             {
                 "name": "Adeola Aina-Marshall",
                 "github": "https://github.com/datCodeGirl",
                 "linkedin": "http://www.linkedin.com/in/adeola-aina-marshall",
               "bio": "Hello, my love for code was born out of curiosity. I always wondered how a language known by few could positively impact so many. The way code has changed the world in what it brings. I enjoy problem solving and decision making. When I’m not thinking about code , I am watching film adaptations and playing crosswords.",
-             "image":""
+             "image":"assets/10.6/adeola_aina-marshall.jpeg"
             }
         ]
     },
     {
         "team": "iHelp",
         "url": "",
-        "logo": "",
+        "logo": "assets/teams/ihelp.jpg",
         "members": [
             {
                 "name": "Antonio Martinez",
                 "github": "https://github.com/anthonymartz17",
                 "linkedin": "https://www.linkedin.com/in/antoniomartinez17/",
                 "bio": "I'm Antonio Martinez, a software engineer originally from the Dominican Republic with a strong background in education. My experience as a former educator has equipped me with problem-solving, adaptability, and collaboration skills, which I now apply in my tech career. I work with technologies like JavaScript, React, TailwindCSS,Vue, Node.js, Express, and PostgreSQL. I'm eager to leverage my technical expertise and educational background to create impactful solutions in the tech industry.",
-                "image": ""
+                "image": "assets/10.6/antonio_martinez.jpeg"
             },
             {
                 "name": "Kurt Julien",
                 "github": "https://github.com/kurtCoding",
                 "linkedin": "https://www.linkedin.com/in/kurtjulien97/",
                 "bio": "I'm Kurt Julien, born and raised in the beautiful twin islands of Trinidad and Tobago. Since I was a kid, I've been obsessed with technology—taking apart anything I could, just to see how it worked. But the moment I cracked open a PC and saw a motherboard for the first time, I was stunned! I thought, how could this \"thing\" make all that happen?? That curiosity led me to a passion for solving real-world problems through software. My goal? To bridge the world of technology with those sweet Caribbean islands I call home—and maybe, just maybe, make a little impact on the world while I'm at it!",
-                "image": ""
+                "image": "assets/10.6/kurt_julien.jpeg"
             },
             {
                 "name": "Shanel Elm",
                 "github": "https://github.com/incognito1127",
                 "linkedin": "https://www.linkedin.com/in/shanel-elm-ab9665237",
                 "bio": "Hi, I'm Shanel! I'm a passionate full stack developer with a unique background in healthcare and tech sales, offering valuable insights into user needs and market trends. I enjoy building applications from the ground up, leveraging both my technical skills and my understanding of the user experience. Working with individuals with special needs deeply inspires me and fuels my commitment to create tools that provide meaningful assistance and improve lives. I find great fulfillment in my work, whether I'm tackling complex coding challenges or collaborating with diverse teams to bring innovative ideas to life. Dedicated to developing apps that make a positive impact, I'm always eager to continue growing and learning in this dynamic field. My goal is to create solutions that not only meet market demands but also resonate with users on a personal level, driving real change and accessibility for all.",
-                "image": ""
+                "image": "assets/10.6/shanel_elm.jpeg"
             },
             {
                 "name": "Marcus Browne",
                 "github": "https://github.com/MarcusB86",
                 "linkedin": "https://www.linkedin.com/in/marcus-browne-6b9a07298/",
                 "bio": "With a background in Fire safety and security, I'm someone looking to move into the vast world of tech. Proficient in both frontend and backend development I'm looking forward to creating apps that makes life easier.",
-                "image": ""
+                "image": "assets/10.6/marcus_browne.jpeg"
             },
             {
                 "name": "Abdel Sayeahmed",
                 "github": "https://github.com/abdelsayedahmed",
                 "linkedin": "https://www.linkedin.com/in/abdelsayedahmed/",
                 "bio": "Hey, I'm Kurt Julien. Caribbean born, highly energetic, self proclaimed adrenaline junkie, I am currently focusing that drive into becoming a full stack software developer! With a background that spans far across different fields, such as construction, licensed EMT, retail and even amateur martial artist, my fascination with technology painted a clear career path for me to follow. I'm definitely pro nature, and would like to do my part to help, and undeniably a dog guy! Easily entertained, you can often find me laughing with a friend (or by myself), or just trying to make the room a little \"lighter\". I enjoy fantasy and supernatural books, shows, and movies. And will without a shadow of a doubt, jump down the proverbial rabbit hole on a good conspiracy!",
-                "image": ""
+                "image": "assets/10.6/abdel.jpeg"
             }
         ]
     }

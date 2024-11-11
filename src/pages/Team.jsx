@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import teams from '../10.5-fellows.json'
+import teams from '../10.6-fellows.json'
 import Button from 'react-bootstrap/Button';
 
 const Team = () => {
