@@ -78,7 +78,7 @@
     },
     {
         "team": "Money Money Money",
-        "url": "",
+        "url": "https://m-cube.netlify.app/",
         "logo": "assets/teams/m_cubed.jpg",
         "members": [
             {
@@ -120,7 +120,7 @@
     },
     {
         "team": "Mentor Volunteer Platform",
-        "url": "",
+        "url": "https://mentorvolunteerplatform.netlify.app/",
         "logo": "assets/teams/mvp.jpg",
         "members": [
             {
