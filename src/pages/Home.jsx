@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const Home = () => {
     return (
         <>
-          <h1>PURSUIT DEMO DAY | 10.6</h1>
+          <h1>PURSUIT DEMO DAY | 10.5</h1>
           
           <div className="flex">
             {
@@ -22,7 +22,7 @@ const Home = () => {
                 </div>
               ))
             }
-            <h3>CIVIC HALL | NOV 14, 2024</h3>
+            <h3>CIVIC HALL | NOV 15, 2024</h3>
           </div>
         </>
     );
