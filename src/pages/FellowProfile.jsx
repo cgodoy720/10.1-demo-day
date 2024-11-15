@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import teams from '../10.6-fellows.json'
+import teams from '../10.5-fellows.json'
 import { useParams, Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';

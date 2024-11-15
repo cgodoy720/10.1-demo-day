@@ -1,4 +1,4 @@
-import fellowInfo from '../10.6-fellows.json'
+import fellowInfo from '../10.5-fellows.json'
 import { Link } from 'react-router-dom'
 const Home = () => {
     return (
